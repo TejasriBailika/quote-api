@@ -28,9 +28,9 @@ A simple Spring Boot RESTful API that provides random inspirational quotes with 
       Windows: mvnw.cmd spring-boot:run
       Linux/Mac: ./mvnw spring-boot:run
 
-3. API is now running at:
+4. API is now running at:
    http://localhost:8080
 
-4. Test the endpoint:
+5. Test the endpoint:
    http://localhost:8080/api/quote
 
