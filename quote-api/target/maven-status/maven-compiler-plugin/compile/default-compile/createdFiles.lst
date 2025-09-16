@@ -1,0 +1,5 @@
+com\example\quote_api\controller\QuoteController.class
+com\example\quote_api\model\Quote.class
+com\example\quote_api\model\RateLimitInfo.class
+com\example\quote_api\QuoteApiApplication.class
+com\example\quote_api\service\RateLimitingService.class
